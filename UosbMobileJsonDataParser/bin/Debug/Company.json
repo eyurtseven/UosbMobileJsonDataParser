@@ -1,0 +1,5816 @@
+[
+  {
+    "Id": "1",
+    "Company": "A.V.S İPLİK TEKSTİL SAN.TİC.LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:51",
+    "Phone": [
+      "0276 266 74 07",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67573",
+      "Longitude": "29.22542"
+    }
+  },
+  {
+    "Id": "2",
+    "Company": "A.V.S İPLİK TEKSTİL SAN.TİC.LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:54",
+    "Phone": [
+      "0276 266 74 07",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6763",
+      "Longitude": "29.22766"
+    }
+  },
+  {
+    "Id": "3",
+    "Company": "A.V.S. İPLİK TEKSTİL SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:121",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67775",
+      "Longitude": "29.22795"
+    }
+  },
+  {
+    "Id": "4",
+    "Company": "A.V.S. İPLİK TEKSTİL SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:57",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67542",
+      "Longitude": "29.2271"
+    }
+  },
+  {
+    "Id": "5",
+    "Company": "ABDURRAHMAN VURAN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 106.CADDE NO:240",
+    "Phone": [
+      "0276 266 73 43",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68238",
+      "Longitude": "29.20204"
+    }
+  },
+  {
+    "Id": "6",
+    "Company": "AGRETON BETON VE YAPI ELEMANLARI SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:301",
+    "Phone": [
+      "0276 501 00 15",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68554",
+      "Longitude": "29.22614"
+    }
+  },
+  {
+    "Id": "7",
+    "Company": "AĞAOĞLU TIBBİ SAĞLIK TEKSTİL SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:219",
+    "Phone": [
+      "0276 266 76 65",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68131",
+      "Longitude": "29.21135"
+    }
+  },
+  {
+    "Id": "8",
+    "Company": "AHMET TETİK",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:469",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68417",
+      "Longitude": "29.23128"
+    }
+  },
+  {
+    "Id": "9",
+    "Company": "AHMET-ÜNAL KÜL",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:87",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67688",
+      "Longitude": "29.20404"
+    }
+  },
+  {
+    "Id": "10",
+    "Company": "AKARCA FİNAL İPLİK TEKS. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 113.CADDE NO:340",
+    "Phone": [
+      "0276 266 47 14",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68052",
+      "Longitude": "29.22788"
+    }
+  },
+  {
+    "Id": "11",
+    "Company": "AKDENİZ ÖRDEK ENTEGRE TESİSLERİ YEM İTH.İHR.SAN.TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 107.CADDE NO:333",
+    "Phone": [
+      "0276 266 78 00",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68451",
+      "Longitude": "29.20491"
+    }
+  },
+  {
+    "Id": "12",
+    "Company": "AKDERMAK DERİ TEKS.MAK.SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:166",
+    "Phone": [
+      "0276 231 59 59",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68021",
+      "Longitude": "29.21632"
+    }
+  },
+  {
+    "Id": "13",
+    "Company": "ALGÜL DERİ TEKS.SAN. VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:151",
+    "Phone": [
+      "0276 266 77 78",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67893",
+      "Longitude": "29.20932"
+    }
+  },
+  {
+    "Id": "14",
+    "Company": "ALİ KARADAĞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:172",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6799",
+      "Longitude": "29.21815"
+    }
+  },
+  {
+    "Id": "15",
+    "Company": "ALİAĞA KİMYA SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 117.CADDE NO:446",
+    "Phone": [
+      "0276 266 80 70",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68395",
+      "Longitude": "29.20399"
+    }
+  },
+  {
+    "Id": "16",
+    "Company": "ALKAR ATLAS TEKS. SAN. TİC. İTH. İHR. LDT. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:171",
+    "Phone": [
+      "0276 266 77 19",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67922",
+      "Longitude": "29.21723"
+    }
+  },
+  {
+    "Id": "17",
+    "Company": "ALKAR ATLAS TEKS. SAN. TİC. İTH. İHR. LDT. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:170",
+    "Phone": [
+      "0276 266 77 19",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68011",
+      "Longitude": "29.21745"
+    }
+  },
+  {
+    "Id": "18",
+    "Company": "ALPERTEKS MENSUCAT SAN. VE TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:205",
+    "Phone": [
+      "0276 266 83 12",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68077",
+      "Longitude": "29.20456"
+    }
+  },
+  {
+    "Id": "19",
+    "Company": "ALPERTEKS MENSUCAT SAN. VE TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 114.CADDE NO:417",
+    "Phone": [
+      "0276 266 83 12",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68118",
+      "Longitude": "29.23143"
+    }
+  },
+  {
+    "Id": "20",
+    "Company": "ALTINSAR TEKS.SAN.VE TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:127",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67776",
+      "Longitude": "29.23156"
+    }
+  },
+  {
+    "Id": "21",
+    "Company": "ALTINSAR TEKSTİL SAN.VE TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:71",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67558",
+      "Longitude": "29.23227"
+    }
+  },
+  {
+    "Id": "22",
+    "Company": "ALTINSAR TEKSTİL SANAYİ VE TİCARET A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:66",
+    "Phone": [
+      "0276 266 81 81",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67658",
+      "Longitude": "29.23257"
+    }
+  },
+  {
+    "Id": "23",
+    "Company": "ALTINSAR TEKSTİL SANAYİ VE TİCARET A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:131",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67777",
+      "Longitude": "29.23271"
+    }
+  },
+  {
+    "Id": "24",
+    "Company": "ALTUNER MUŞAMBA SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:453",
+    "Phone": [
+      "0276 266 74 01",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68166",
+      "Longitude": "29.23291"
+    }
+  },
+  {
+    "Id": "25",
+    "Company": "ARAS İPLİK SAN .VE DIŞ TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 114.CADDE NO:423",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68454",
+      "Longitude": "29.22859"
+    }
+  },
+  {
+    "Id": "26",
+    "Company": "ARSLAN ELK. SAN. TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:7",
+    "Phone": [
+      "0276 266 74 10",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67487",
+      "Longitude": "29.20465"
+    }
+  },
+  {
+    "Id": "27",
+    "Company": "ARZUM MENSUCAT SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:194",
+    "Phone": [
+      "0276 266 83 75",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68137",
+      "Longitude": "29.20842"
+    }
+  },
+  {
+    "Id": "28",
+    "Company": "ATATEKS TEKS. İŞLETMELERİ SAN. VE TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:3 -",
+    "Phone": [
+      "0276 266 77 55",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67482",
+      "Longitude": "29.2029"
+    }
+  },
+  {
+    "Id": "29",
+    "Company": "ATLAS POLİMER KİMYA TEKSTİL SAN. TİC. LDT. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 113. CADDE NO:344",
+    "Phone": [
+      "0276 266 77 00",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68302",
+      "Longitude": "29.22506"
+    }
+  },
+  {
+    "Id": "30",
+    "Company": "AVŞAR YÜN İMALAT SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:30",
+    "Phone": [
+      "0276 266 79 01",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67593",
+      "Longitude": "29.21341"
+    }
+  },
+  {
+    "Id": "31",
+    "Company": "AY TEKSTİL İPLİK SAN. TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:95",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67693",
+      "Longitude": "29.20874"
+    }
+  },
+  {
+    "Id": "32",
+    "Company": "AYANOĞLU TEKS.SN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:77",
+    "Phone": [
+      "0276 266 76 50",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67573",
+      "Longitude": "29.23399"
+    }
+  },
+  {
+    "Id": "33",
+    "Company": "AYDOĞANLAR ZİRAAT ALETLERİ YAPI MALZ. KÖMÜR METAL NAKL. SAN. TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:523",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68457",
+      "Longitude": "29.20687"
+    }
+  },
+  {
+    "Id": "34",
+    "Company": "AYDOĞANLAR ZİRAAT ALETLERİ YAPI MALZ. KÖMÜR METAL NAKL. SAN. TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:291",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68111",
+      "Longitude": "29.2198"
+    }
+  },
+  {
+    "Id": "35",
+    "Company": "AYT İPLİK SAN. VE TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:136",
+    "Phone": [
+      "0276 266 77 88",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67984",
+      "Longitude": "29.20486"
+    }
+  },
+  {
+    "Id": "36",
+    "Company": "AYTEKSTİL İPLİK SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 120.CADDE NO:545",
+    "Phone": [
+      "0276 266 74 17",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68142",
+      "Longitude": "29.22488"
+    }
+  },
+  {
+    "Id": "37",
+    "Company": "BALTA FLOORCOVERİNGYER DÖŞ. SAN. VE TİC. .AŞ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 109.CADDE NO:351",
+    "Phone": [
+      "0276 266 77 42",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67749",
+      "Longitude": "29.21335"
+    }
+  },
+  {
+    "Id": "38",
+    "Company": "BAŞAK ELYAF TEKS.GERİ DÖN.SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 120.CADDE NO:500",
+    "Phone": [
+      "0276 502 00 21",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68034",
+      "Longitude": "29.22376"
+    }
+  },
+  {
+    "Id": "39",
+    "Company": "BAŞAK TEKSTİL İÇ VE DIŞ TİC. LTD.ŞTİ.(FİNANSAL KİRACI)",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:457",
+    "Phone": [
+      "0276 266 82 05",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68226",
+      "Longitude": "29.23254"
+    }
+  },
+  {
+    "Id": "40",
+    "Company": "BAŞAK TEKSTİL İÇ VE DIŞ TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 120.CADDE NO:549",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68151",
+      "Longitude": "29.22877"
+    }
+  },
+  {
+    "Id": "41",
+    "Company": "BAYRAM DÖNGEL",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO: 412",
+    "Phone": [
+      "0276 266 83 01",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6829",
+      "Longitude": "29.20232"
+    }
+  },
+  {
+    "Id": "42",
+    "Company": "BEKİR GÜNEŞHAN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:146",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67968",
+      "Longitude": "29.20853"
+    }
+  },
+  {
+    "Id": "43",
+    "Company": "BEPA GERİ DÖNÜŞÜM TEKSTİL DERİ SANAYİ VE TİCARET LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 108.CADDE NO:286",
+    "Phone": [
+      "0276 266 86 00",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67902",
+      "Longitude": "29.21243"
+    }
+  },
+  {
+    "Id": "44",
+    "Company": "BERNİ TEKS.İNŞ. SAN. VE TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 120.CADDE NO:553",
+    "Phone": [
+      "0276 266 75 01",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68258",
+      "Longitude": "29.23076"
+    }
+  },
+  {
+    "Id": "45",
+    "Company": "BESNİ TEKS.S.VE TİC.A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 106.CADDE NO 234",
+    "Phone": [
+      "0276 266 71 56",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67931",
+      "Longitude": "29.20306"
+    }
+  },
+  {
+    "Id": "46",
+    "Company": "BEYTEKS TEKS. NAKL. GIDA İNŞ. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:213",
+    "Phone": [
+      "0276 501 02 02",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68093",
+      "Longitude": "29.20761"
+    }
+  },
+  {
+    "Id": "47",
+    "Company": "BEYTEKS TEKS. NAKL. GIDA İNŞ. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:458",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68383",
+      "Longitude": "29.20922"
+    }
+  },
+  {
+    "Id": "48",
+    "Company": "BİLAL BİÇER",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:283",
+    "Phone": [
+      "0276 266 86 65",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68111",
+      "Longitude": "29.21712"
+    }
+  },
+  {
+    "Id": "49",
+    "Company": "BİLLUR TEKSTİL SAN. VE TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:34",
+    "Phone": [
+      "0276 266 76 28",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6761",
+      "Longitude": "29.21552"
+    }
+  },
+  {
+    "Id": "50",
+    "Company": "BİNALİ KILIÇ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 117.CADDE NO:450",
+    "Phone": [
+      "0276 266 75 00",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68391",
+      "Longitude": "29.2052"
+    }
+  },
+  {
+    "Id": "51",
+    "Company": "BİRLİK YÜN İPLİK MENS. FAB. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 111.CADDE NO:306",
+    "Phone": [
+      "0276 266 71 65",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67589",
+      "Longitude": "29.22173"
+    }
+  },
+  {
+    "Id": "52",
+    "Company": "BOYAEVİ TEKSTİL BOYAMA DERİ MAD.SAN.TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:8",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6757",
+      "Longitude": "29.20461"
+    }
+  },
+  {
+    "Id": "53",
+    "Company": "BOZOĞLU TEKS.SANAYİ VE TİCARET A.Ş.",
+    "Sector": "",
+    "Address": "",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68467",
+      "Longitude": "29.20914"
+    }
+  },
+  {
+    "Id": "54",
+    "Company": "BOZOĞLU TEKS.SANAYİ VE TİCARET A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 110.CADDE NO:300",
+    "Phone": [
+      "0276 266 71 75",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67574",
+      "Longitude": "29.21764"
+    }
+  },
+  {
+    "Id": "55",
+    "Company": "BOZOĞLU TEKS.SANAYİ VE TİCARET A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 110.CADDE NO:300",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67579",
+      "Longitude": "29.21848"
+    }
+  },
+  {
+    "Id": "56",
+    "Company": "BOZOĞLU TEKS.SANAYİ VE TİCARET A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 117.CADDE NO:509",
+    "Phone": [
+      "0276 266 75 38",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.686",
+      "Longitude": "29.20767"
+    }
+  },
+  {
+    "Id": "57",
+    "Company": "CANELA TEKSTİL SAN. VE DIŞ. TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:76",
+    "Phone": [
+      "0276 502 00 30",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67768",
+      "Longitude": "29.20255"
+    }
+  },
+  {
+    "Id": "58",
+    "Company": "CCC TEKSTİL SANİVE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:158",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67996",
+      "Longitude": "29.21328"
+    }
+  },
+  {
+    "Id": "59",
+    "Company": "CFA TİCARET LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 112.CADDE NO:385",
+    "Phone": [
+      "0276 501 02 76",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68153",
+      "Longitude": "29.22145"
+    }
+  },
+  {
+    "Id": "60",
+    "Company": "ÇAM HALI VE DIŞ TİCARET LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:173",
+    "Phone": [
+      "0276 266 79 50",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67923",
+      "Longitude": "29.21803"
+    }
+  },
+  {
+    "Id": "61",
+    "Company": "ÇAM HALI VE DIŞ TİCARET LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:169",
+    "Phone": [
+      "0276 266 79 50",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67928",
+      "Longitude": "29.2168"
+    }
+  },
+  {
+    "Id": "62",
+    "Company": "ÇINAR İPLİK TEKSTİL SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:18",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67583",
+      "Longitude": "29.20822"
+    }
+  },
+  {
+    "Id": "63",
+    "Company": "ÇINAR İPLİK TEKSTİL SANAYİ VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 112.CADDE NO:324",
+    "Phone": [
+      "0276 266 77 05",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67987",
+      "Longitude": "29.22249"
+    }
+  },
+  {
+    "Id": "64",
+    "Company": "ÇITA PLASTİK SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:472",
+    "Phone": [
+      "0276 266 74 66",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68365",
+      "Longitude": "29.2081"
+    }
+  },
+  {
+    "Id": "65",
+    "Company": "ÇOBANOĞLU GIDA TİC. LTD. ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:79",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67599",
+      "Longitude": "29.23492"
+    }
+  },
+  {
+    "Id": "66",
+    "Company": "DAŞCI MENSUCAT SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 119.CADDE NO:488",
+    "Phone": [
+      "0276 517 17 64",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68196",
+      "Longitude": "29.22647"
+    }
+  },
+  {
+    "Id": "67",
+    "Company": "DEMAŞ GERİ DÖNÜŞÜM SAN. İÇ VE DIŞ TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 120.CADDE NO:502",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68034",
+      "Longitude": "29.22432"
+    }
+  },
+  {
+    "Id": "68",
+    "Company": "DENİZ DİKMEN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:529",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68574",
+      "Longitude": "29.20607"
+    }
+  },
+  {
+    "Id": "69",
+    "Company": "DEVA YÜN TEKSTİL SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:416",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68291",
+      "Longitude": "29.20297"
+    }
+  },
+  {
+    "Id": "70",
+    "Company": "DİNÇ TEKSTİL TAR. HAY. SAN. VE TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:475",
+    "Phone": [
+      "0276 266 72 78",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68576",
+      "Longitude": "29.22981"
+    }
+  },
+  {
+    "Id": "71",
+    "Company": "DÖNMEZLER MADENİ YAĞ İNŞ.SAN.TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:501",
+    "Phone": [
+      "0276 266 88 10",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68351",
+      "Longitude": "29.20537"
+    }
+  },
+  {
+    "Id": "72",
+    "Company": "DURAN AHMET ÇEKİT",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:24",
+    "Phone": [
+      "0276 266 77 57",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67593",
+      "Longitude": "29.21209"
+    }
+  },
+  {
+    "Id": "73",
+    "Company": "DÜLGEROĞLU İPLİK VE MENS. SAN. VE Tİ. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 112.CADDE NO:369",
+    "Phone": [
+      "0276 266 72 78",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67593",
+      "Longitude": "29.22333"
+    }
+  },
+  {
+    "Id": "74",
+    "Company": "ECE KAYIŞ RULMAN SAN. VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:420",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68298",
+      "Longitude": "29.20364"
+    }
+  },
+  {
+    "Id": "75",
+    "Company": "EFNAZ TEKSTİL SAN. TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104. CADDE NO:148",
+    "Phone": [
+      "0276 266 88 58",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67987",
+      "Longitude": "29.20926"
+    }
+  },
+  {
+    "Id": "76",
+    "Company": "EGE GIDA LOJ. PAZL. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:129",
+    "Phone": [
+      "0276 266 79 20",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67777",
+      "Longitude": "29.23214"
+    }
+  },
+  {
+    "Id": "77",
+    "Company": "EGEMEN OĞLAKCIOĞLU KONF. PETR. ÜRÜ. TEKS. KİMS. MAD. VE TURZ. TİC. PAZL. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:482",
+    "Phone": [
+      "0276 266 75 35",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68553",
+      "Longitude": "29.2072"
+    }
+  },
+  {
+    "Id": "78",
+    "Company": "EMEL KÖSTENCE",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 117.CADDE NO:462",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68321",
+      "Longitude": "29.20942"
+    }
+  },
+  {
+    "Id": "79",
+    "Company": "EMİNE ÖZDEMİR",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 120.CADDE NO:498",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68037",
+      "Longitude": "29.22319"
+    }
+  },
+  {
+    "Id": "80",
+    "Company": "EMİR OTOMOTİV END.ÜR.SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:134",
+    "Phone": [
+      "0276 266 88 11",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67983",
+      "Longitude": "29.2044"
+    }
+  },
+  {
+    "Id": "81",
+    "Company": "ERCE TEKS. SAN. VE TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:435",
+    "Phone": [
+      "0276 266 77 99",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67818",
+      "Longitude": "29.2352"
+    }
+  },
+  {
+    "Id": "82",
+    "Company": "EREN ERAŞIK",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 109.CADDE NO:298",
+    "Phone": [
+      "0276 227 15 05",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68014",
+      "Longitude": "29.21574"
+    }
+  },
+  {
+    "Id": "83",
+    "Company": "ERKAN YILDIRIM",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:478",
+    "Phone": [
+      "0276 266 88 00",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68494",
+      "Longitude": "29.20756"
+    }
+  },
+  {
+    "Id": "84",
+    "Company": "EŞREF ALTUĞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:160",
+    "Phone": [
+      "0276 266 72 30",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67998",
+      "Longitude": "29.21373"
+    }
+  },
+  {
+    "Id": "85",
+    "Company": "FAHRETTİN ÇELİK",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:233",
+    "Phone": [
+      "0276 266 73 01",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68244",
+      "Longitude": "29.2032"
+    }
+  },
+  {
+    "Id": "86",
+    "Company": "FAİK CAN DEMİRCİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:73",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67569",
+      "Longitude": "29.23278"
+    }
+  },
+  {
+    "Id": "87",
+    "Company": "FATMA UYGUN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:460",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6835",
+      "Longitude": "29.20937"
+    }
+  },
+  {
+    "Id": "88",
+    "Company": "FİKRET ASLAN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:153",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67897",
+      "Longitude": "29.20994"
+    }
+  },
+  {
+    "Id": "89",
+    "Company": "FİLİZ STRAFOR NAKLİYE SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:222",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68496",
+      "Longitude": "29.22755"
+    }
+  },
+  {
+    "Id": "90",
+    "Company": "GEDİK AMBALAJ TEKS. İNŞ. İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:83",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67682",
+      "Longitude": "29.20277"
+    }
+  },
+  {
+    "Id": "91",
+    "Company": "GÖKHAN BAŞER",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:165",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67919",
+      "Longitude": "29.21576"
+    }
+  },
+  {
+    "Id": "92",
+    "Company": "GÖKHAN KARATEKE-KAMİL KÜL ADİ ORTAKLIĞI",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 114.CADDE NO:388",
+    "Phone": [
+      "0276 266 73 83",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68339",
+      "Longitude": "29.23155"
+    }
+  },
+  {
+    "Id": "93",
+    "Company": "GÖKHAN KUYUCAK TEKS. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:202",
+    "Phone": [
+      "0276 266 79 17",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68015",
+      "Longitude": "29.22089"
+    }
+  },
+  {
+    "Id": "94",
+    "Company": "GÖKSEV KONF. GİY. TEKS. GIDA TAR. HAYV. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:216",
+    "Phone": [
+      "0276 266 71 90",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68458",
+      "Longitude": "29.22647"
+    }
+  },
+  {
+    "Id": "95",
+    "Company": "GÜLÇAĞ TEKSTİL SAN. TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:93",
+    "Phone": [
+      "0276 266 75 53",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67689",
+      "Longitude": "29.20734"
+    }
+  },
+  {
+    "Id": "96",
+    "Company": "GÜLHANLAR TEKSTİL SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:70",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67667",
+      "Longitude": "29.23399"
+    }
+  },
+  {
+    "Id": "97",
+    "Company": "GÜNEŞHAN MENS.TEKS.SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:145",
+    "Phone": [
+      "0276 266 75 90",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67887",
+      "Longitude": "29.20592"
+    }
+  },
+  {
+    "Id": "98",
+    "Company": "GÜNSA MEDİKAL ORT. SAN. İÇ VE DIŞ TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:161",
+    "Phone": [
+      "0276 266 88 80",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67904",
+      "Longitude": "29.21385"
+    }
+  },
+  {
+    "Id": "99",
+    "Company": "HAKSA İPLİK SAN. VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:154",
+    "Phone": [
+      "0276 266 73 68",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68008",
+      "Longitude": "29.21132"
+    }
+  },
+  {
+    "Id": "100",
+    "Company": "HAKSA ÖRME SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:152",
+    "Phone": [
+      "0276 266 73 68",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67999",
+      "Longitude": "29.21012"
+    }
+  },
+  {
+    "Id": "101",
+    "Company": "HAMİT AKCA",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:220",
+    "Phone": [
+      "0276 266 83 53",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68542",
+      "Longitude": "29.2283"
+    }
+  },
+  {
+    "Id": "102",
+    "Company": "HANLAR DERİ TEKS. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 112.CADDE NO:379",
+    "Phone": [
+      "0276 266 79 41",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68012",
+      "Longitude": "29.22151"
+    }
+  },
+  {
+    "Id": "103",
+    "Company": "HASAN ÇİMEN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:527-",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68535",
+      "Longitude": "29.20636"
+    }
+  },
+  {
+    "Id": "104",
+    "Company": "HASAN SAYGIN GÜRLER İSMAİL SERKAN GÜRLER ORTAKLIĞI SAYGIN TEKSTİL TİC.İTH.İHR.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:222",
+    "Phone": [
+      "0276 266 75 22",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68559",
+      "Longitude": "29.22883"
+    }
+  },
+  {
+    "Id": "105",
+    "Company": "HATİCE ŞEKER",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:447",
+    "Phone": [
+      "0276 266 88 01",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68084",
+      "Longitude": "29.23335"
+    }
+  },
+  {
+    "Id": "106",
+    "Company": "HATİCE ŞİRİN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 107.CADDE NO:331",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6839",
+      "Longitude": "29.2056"
+    }
+  },
+  {
+    "Id": "107",
+    "Company": "HATİCE TÜRKYURT",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:112",
+    "Phone": [
+      "0276 266 84 02",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67863",
+      "Longitude": "29.22721"
+    }
+  },
+  {
+    "Id": "108",
+    "Company": "HAYRETTİN ERDİNÇ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:124",
+    "Phone": [
+      "0276 266 70 64",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67888",
+      "Longitude": "29.23269"
+    }
+  },
+  {
+    "Id": "109",
+    "Company": "HAZAR İPLİK SAN. VE DIŞ TİC.LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:259",
+    "Phone": [
+      "0276 266 89 00",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68277",
+      "Longitude": "29.21118"
+    }
+  },
+  {
+    "Id": "110",
+    "Company": "HEDEF SENTETİK SPOR ZEM. TEKS. İNŞ. SAN. VE TİC. İTH. İHR. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:12",
+    "Phone": [
+      "0276 266 83 74",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67572",
+      "Longitude": "29.20559"
+    }
+  },
+  {
+    "Id": "111",
+    "Company": "HERA ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 120.CADDE NO:551",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68197",
+      "Longitude": "29.2298"
+    }
+  },
+  {
+    "Id": "112",
+    "Company": "HİTİT SERAMİK SAN.VE TİCARET A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:1 -",
+    "Phone": [
+      "0276 266 72 00",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6761",
+      "Longitude": "29.19891"
+    }
+  },
+  {
+    "Id": "113",
+    "Company": "HUZUR MENSUCAT SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 114.CADDE NO:400",
+    "Phone": [
+      "0276 266 76 04",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68374",
+      "Longitude": "29.23126"
+    }
+  },
+  {
+    "Id": "114",
+    "Company": "HÜSEYİN CANBAZ EMİNE CANBAZ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:481",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68345",
+      "Longitude": "29.20263"
+    }
+  },
+  {
+    "Id": "115",
+    "Company": "HÜSEYİN KÜL",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:89",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67689",
+      "Longitude": "29.20454"
+    }
+  },
+  {
+    "Id": "116",
+    "Company": "İBRAHİM PEYNİRCİOĞLU",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:497",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68341",
+      "Longitude": "29.20472"
+    }
+  },
+  {
+    "Id": "117",
+    "Company": "İBRAHİM PEYNİRCİOĞLU",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:495",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68343",
+      "Longitude": "29.20449"
+    }
+  },
+  {
+    "Id": "118",
+    "Company": "İLYAS ALTINORDU",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:197",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6798",
+      "Longitude": "29.23109"
+    }
+  },
+  {
+    "Id": "119",
+    "Company": "İNTA İTH. IHR. OTOMOTİV. SAN. TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 119.CADDE NO:535",
+    "Phone": [
+      "0276 266 77 80",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68349",
+      "Longitude": "29.2271"
+    }
+  },
+  {
+    "Id": "120",
+    "Company": "İSKENDER GERİ DÖNÜŞÜM SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:120",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6788",
+      "Longitude": "29.23153"
+    }
+  },
+  {
+    "Id": "121",
+    "Company": "İSMAİL AKGÖZLÜ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:499",
+    "Phone": [
+      "0276 501 00 02",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68345",
+      "Longitude": "29.2051"
+    }
+  },
+  {
+    "Id": "122",
+    "Company": "İSMAİL ERKÖSE YÜCEL SAVRAN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:503",
+    "Phone": [
+      "0276 212 73 92",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68352",
+      "Longitude": "29.20569"
+    }
+  },
+  {
+    "Id": "123",
+    "Company": "İSMAİL HAKKI YALÇINDAĞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:185",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67937",
+      "Longitude": "29.22379"
+    }
+  },
+  {
+    "Id": "124",
+    "Company": "İSMAİL MURAT YELDANLI VE ORTAĞI",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:414",
+    "Phone": [
+      "0276 266 74 21",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68292",
+      "Longitude": "29.20263"
+    }
+  },
+  {
+    "Id": "125",
+    "Company": "İSMAİL ÖZÇAY",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:449",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68112",
+      "Longitude": "29.23325"
+    }
+  },
+  {
+    "Id": "126",
+    "Company": "KADİR KARAKUŞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 113.CADDE NO:397",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68036",
+      "Longitude": "29.22566"
+    }
+  },
+  {
+    "Id": "127",
+    "Company": "KANDEMİROĞLU İNŞ. TAAH. TEKS. TURZ. SAN. VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 113.CADDE NO:387",
+    "Phone": [
+      "0276 266 75 78",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67559",
+      "Longitude": "29.23028"
+    }
+  },
+  {
+    "Id": "128",
+    "Company": "KANTTEKS TEKS. BOYA SAN. VE TİC. LTD. ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:59",
+    "Phone": [
+      "0276 266 73 13",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67546",
+      "Longitude": "29.22768"
+    }
+  },
+  {
+    "Id": "129",
+    "Company": "KANTTEKS TEKS. BOYA ŞİFONEZ GARNET NAKL. SAN. TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 114.CADDE NO:352",
+    "Phone": [
+      "0276 266 73 13",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67641",
+      "Longitude": "29.23623"
+    }
+  },
+  {
+    "Id": "130",
+    "Company": "KARAHAN PETROL NAKL.TEKS.SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:275",
+    "Phone": [
+      "0276 266 84 84",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68183",
+      "Longitude": "29.21529"
+    }
+  },
+  {
+    "Id": "131",
+    "Company": "KARATAŞ İPLİK SAN. VE DIŞ. TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:470",
+    "Phone": [
+      "0276 266 81 89",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68336",
+      "Longitude": "29.20819"
+    }
+  },
+  {
+    "Id": "132",
+    "Company": "KARATAŞ İPLİK SAN. VE DIŞ TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 107.CADDE NO:248",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67493",
+      "Longitude": "29.20721"
+    }
+  },
+  {
+    "Id": "133",
+    "Company": "KARATAŞ İPLİK SAN. VE DIŞ. TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105. CADDE NO : 180",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6817",
+      "Longitude": "29.20353"
+    }
+  },
+  {
+    "Id": "134",
+    "Company": "KAVAK GIDA VE SAN.TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:221",
+    "Phone": [
+      "0276 266 74 40",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68116",
+      "Longitude": "29.21487"
+    }
+  },
+  {
+    "Id": "135",
+    "Company": "KAVAK TEKS. SAN. VE TİC. LTD. ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 120.CADDE NO:543",
+    "Phone": [
+      "0276 266 74 40",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68138",
+      "Longitude": "29.22395"
+    }
+  },
+  {
+    "Id": "136",
+    "Company": "KEMAL RIZA YILDIZHAN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:108",
+    "Phone": [
+      "0276 266 71 00",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67856",
+      "Longitude": "29.22582"
+    }
+  },
+  {
+    "Id": "137",
+    "Company": "KIZILDAĞ TEKSTİL SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:183",
+    "Phone": [
+      "0276 266 77 17",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67932",
+      "Longitude": "29.22321"
+    }
+  },
+  {
+    "Id": "138",
+    "Company": "KNOTİSSE HALICILIK SAN. VE DIŞ TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116 CADDE NO:493",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68343",
+      "Longitude": "29.20402"
+    }
+  },
+  {
+    "Id": "139",
+    "Company": "KONYALI ÜÇLER MAKİNE SAN.TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 117.CADDE NO:444",
+    "Phone": [
+      "0276 215 21 31",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68389",
+      "Longitude": "29.20362"
+    }
+  },
+  {
+    "Id": "140",
+    "Company": "KORUSAN ÇEV. KİM. SAN. TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:13",
+    "Phone": [
+      "0276 266 76 00",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67984",
+      "Longitude": "29.2053"
+    }
+  },
+  {
+    "Id": "141",
+    "Company": "KOŞAN TEKSTİL SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:4",
+    "Phone": [
+      "0276 266 72 13",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6757",
+      "Longitude": "29.20288"
+    }
+  },
+  {
+    "Id": "142",
+    "Company": "KÖSEOĞLU KONF.TEKSTİL SAN. VE TİC.LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:86",
+    "Phone": [
+      "0276 502 00 10",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67793",
+      "Longitude": "29.20869"
+    }
+  },
+  {
+    "Id": "143",
+    "Company": "KUYUCAK MENSUCAT SANAYİ VE TİC. LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:175",
+    "Phone": [
+      "0276 266 71 21",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67942",
+      "Longitude": "29.21908"
+    }
+  },
+  {
+    "Id": "144",
+    "Company": "KUYUCAK MENSUCAT SANAYİ VE TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:179",
+    "Phone": [
+      "0276 266 71 21",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6793",
+      "Longitude": "29.22119"
+    }
+  },
+  {
+    "Id": "145",
+    "Company": "KÜRŞAT ÖZAYDIN TEKS.İNŞ.SAN.TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:431",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6769",
+      "Longitude": "29.23593"
+    }
+  },
+  {
+    "Id": "146",
+    "Company": "MAPEKS GIDA VE SAN MAM.İHR. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 114.CADDE NO:415",
+    "Phone": [
+      "0276 502 00 12",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67981",
+      "Longitude": "29.23266"
+    }
+  },
+  {
+    "Id": "147",
+    "Company": "MEDOKSAN TEKS.SAN.VE DIŞ TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:125",
+    "Phone": [
+      "0276 266 84 27",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67783",
+      "Longitude": "29.23055"
+    }
+  },
+  {
+    "Id": "148",
+    "Company": "MEHMET GÜNEŞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:410",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6829",
+      "Longitude": "29.20212"
+    }
+  },
+  {
+    "Id": "149",
+    "Company": "MEHMET KARCIOĞLU",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:430",
+    "Phone": [
+      "0276 266 72 21",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68297",
+      "Longitude": "29.20494"
+    }
+  },
+  {
+    "Id": "150",
+    "Company": "MEHMET SERBÜLENT KARABULUT",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:192",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68179",
+      "Longitude": "29.20762"
+    }
+  },
+  {
+    "Id": "151",
+    "Company": "MELTEM KAHRAMAN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:243",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68255",
+      "Longitude": "29.20471"
+    }
+  },
+  {
+    "Id": "152",
+    "Company": "MERİH YEM SAN. TİC. LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:471",
+    "Phone": [
+      "0276 266 75 77",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68456",
+      "Longitude": "29.23072"
+    }
+  },
+  {
+    "Id": "153",
+    "Company": "MERİH YEM SAN. TİC. LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:473",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68517",
+      "Longitude": "29.23047"
+    }
+  },
+  {
+    "Id": "154",
+    "Company": "MESUT ÇELİK",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:241",
+    "Phone": [
+      "0276 266 74 90",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68252",
+      "Longitude": "29.20412"
+    }
+  },
+  {
+    "Id": "155",
+    "Company": "MESUT TUFAN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:476",
+    "Phone": [
+      "0276 517 11 47",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68462",
+      "Longitude": "29.20776"
+    }
+  },
+  {
+    "Id": "156",
+    "Company": "MESUT TUFAN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 117.CADDE NO:522",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68437",
+      "Longitude": "29.20802"
+    }
+  },
+  {
+    "Id": "157",
+    "Company": "METİN UÇAR",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:255",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68281",
+      "Longitude": "29.20953"
+    }
+  },
+  {
+    "Id": "158",
+    "Company": "MEVLÜT FİLİK",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:75",
+    "Phone": [
+      "0276 266 70 23",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67573",
+      "Longitude": "29.2334"
+    }
+  },
+  {
+    "Id": "159",
+    "Company": "MFM TEKSTİL SAN.TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:35",
+    "Phone": [
+      "0276 266 84 80",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67517",
+      "Longitude": "29.21548"
+    }
+  },
+  {
+    "Id": "160",
+    "Company": "MURAT BEY GIDA SAN.TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:60",
+    "Phone": [
+      "0276 266 79 07",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67638",
+      "Longitude": "29.22927"
+    }
+  },
+  {
+    "Id": "161",
+    "Company": "MURAT KAYA",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:189",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67942",
+      "Longitude": "29.22556"
+    }
+  },
+  {
+    "Id": "162",
+    "Company": "MURAT BEY GIDA SAN.TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:69",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67564",
+      "Longitude": "29.23148"
+    }
+  },
+  {
+    "Id": "163",
+    "Company": "MUSTAFA KARATAŞOĞLU",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 106.CADDE NO:244",
+    "Phone": [
+      "0276 266 74 95",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68345",
+      "Longitude": "29.2021"
+    }
+  },
+  {
+    "Id": "164",
+    "Company": "MUSTAFA KURT KİMYA SAN.TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 120.CADDE NO:541",
+    "Phone": [
+      "0276 266 87 87",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68134",
+      "Longitude": "29.22326"
+    }
+  },
+  {
+    "Id": "165",
+    "Company": "MUSTAFA ÖZDEMİR",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:525",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68495",
+      "Longitude": "29.20658"
+    }
+  },
+  {
+    "Id": "166",
+    "Company": "MUZAFFER MERT TEKSTİL SAN. VE TİC .LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:249",
+    "Phone": [
+      "0276 266 72 62",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68256",
+      "Longitude": "29.20573"
+    }
+  },
+  {
+    "Id": "167",
+    "Company": "NACİYE ULUDAĞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:14",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67576",
+      "Longitude": "29.20605"
+    }
+  },
+  {
+    "Id": "168",
+    "Company": "NACİYE ULUDAĞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:235",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68248",
+      "Longitude": "29.20349"
+    }
+  },
+  {
+    "Id": "169",
+    "Company": "NAİL EGELİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:208",
+    "Phone": [
+      "0276 266 80 35",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68151",
+      "Longitude": "29.221"
+    }
+  },
+  {
+    "Id": "170",
+    "Company": "NATUREL SOĞUK HAVA DEPOLARI ORGANİK TARIM ÜRÜNLERİ SAN. TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:195",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67962",
+      "Longitude": "29.22998"
+    }
+  },
+  {
+    "Id": "171",
+    "Company": "NAZMİ DEMİRDÖĞER TARIM MAK. SINAİ VE TIBBI GAZLAR İML. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 119.CADDE NO:533",
+    "Phone": [
+      "0276 266 76 98",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68335",
+      "Longitude": "29.22633"
+    }
+  },
+  {
+    "Id": "172",
+    "Company": "NECATİ ÖZEN TEKS.İTH.İHR. SAN.VE TİC.LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 119.CADDE NO:492",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68311",
+      "Longitude": "29.22865"
+    }
+  },
+  {
+    "Id": "173",
+    "Company": "NESLİ ÖRME TEKS. SAN. VE TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:118",
+    "Phone": [
+      "0276 266 70 29",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67878",
+      "Longitude": "29.23038"
+    }
+  },
+  {
+    "Id": "174",
+    "Company": "NURSA İPLİK SAN.VE TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:190",
+    "Phone": [
+      "0276 266 76 41",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68163",
+      "Longitude": "29.20679"
+    }
+  },
+  {
+    "Id": "175",
+    "Company": "OĞUL MENS.SAN.VE TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:144",
+    "Phone": [
+      "0276 266 84 15",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67987",
+      "Longitude": "29.20712"
+    }
+  },
+  {
+    "Id": "176",
+    "Company": "OKTAY ÇELİK",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:231",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68244",
+      "Longitude": "29.20294"
+    }
+  },
+  {
+    "Id": "177",
+    "Company": "OKTAY ÇELİK",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:245",
+    "Phone": [
+      "0276 266 83 46",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68254",
+      "Longitude": "29.20507"
+    }
+  },
+  {
+    "Id": "178",
+    "Company": "ORHAN GEDİK",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:203",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68069",
+      "Longitude": "29.20293"
+    }
+  },
+  {
+    "Id": "179",
+    "Company": "ORHAN ÖZKARAKAYA KESİCİ TAKIMLAR VE TEKSTİL SAN.TİC.LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:273",
+    "Phone": [
+      "0276 231 16 02",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68204",
+      "Longitude": "29.21448"
+    }
+  },
+  {
+    "Id": "180",
+    "Company": "ORMİSAN TEKSTİL İZOLASYON İNŞ. TAAH. SAN. VE DIŞ TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:174",
+    "Phone": [
+      "0276 266 71 11",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67986",
+      "Longitude": "29.21861"
+    }
+  },
+  {
+    "Id": "181",
+    "Company": "OSMAN ZEKİ İŞMAN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE.NO:65",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67551",
+      "Longitude": "29.22943"
+    }
+  },
+  {
+    "Id": "182",
+    "Company": "ÖMER ÇINAR DERİ TEKSTİL İNŞ.OTO.SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:135",
+    "Phone": [
+      "0276 266 84 34",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6779",
+      "Longitude": "29.23399"
+    }
+  },
+  {
+    "Id": "183",
+    "Company": "ÖMER GÜL",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:188",
+    "Phone": [
+      "0276 266 82 73",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68188",
+      "Longitude": "29.2058"
+    }
+  },
+  {
+    "Id": "184",
+    "Company": "ÖMER GÜR",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:184",
+    "Phone": [
+      "0276 266 82 97",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68181",
+      "Longitude": "29.20472"
+    }
+  },
+  {
+    "Id": "185",
+    "Company": "ÖRYÜN TEKSTİL DIŞ TİC.VE SAN.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:19",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67492",
+      "Longitude": "29.20829"
+    }
+  },
+  {
+    "Id": "186",
+    "Company": "ÖRYÜN TEKSTİL DIŞ TİC. VE SAN.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:191",
+    "Phone": [
+      "0276 227 99 80",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67953",
+      "Longitude": "29.22647"
+    }
+  },
+  {
+    "Id": "187",
+    "Company": "ÖRYÜN TEKSTİL DIŞ TİC.SAN.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:21",
+    "Phone": [
+      "0276 266 99 80",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67502",
+      "Longitude": "29.20929"
+    }
+  },
+  {
+    "Id": "188",
+    "Company": "ÖZÇAY İPLİK TEKSTİL SAN. VE TİC.LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:445",
+    "Phone": [
+      "0276 266 72 72",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68046",
+      "Longitude": "29.23369"
+    }
+  },
+  {
+    "Id": "189",
+    "Company": "ÖZDEMİROĞLU TEKSTİL SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 113.CADDE NO:338",
+    "Phone": [
+      "0276 501 00 07",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67971",
+      "Longitude": "29.22818"
+    }
+  },
+  {
+    "Id": "190",
+    "Company": "ÖZEGE MENS. VE YEMEK HİZM. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 107.CADDE NO:321",
+    "Phone": [
+      "0276 266 81 44",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68073",
+      "Longitude": "29.20584"
+    }
+  },
+  {
+    "Id": "191",
+    "Company": "ÖZEGE MENS.SAN. VE TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:28",
+    "Phone": [
+      "0276 266 81 44",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67591",
+      "Longitude": "29.21286"
+    }
+  },
+  {
+    "Id": "192",
+    "Company": "ÖZERDEM MENSUCAT SAN. VE TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:80",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6778",
+      "Longitude": "29.20442"
+    }
+  },
+  {
+    "Id": "193",
+    "Company": "ÖZERDEM MENSUCAT SAN. VE TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:43",
+    "Phone": [
+      "0276 266 71 81",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67577",
+      "Longitude": "29.21976"
+    }
+  },
+  {
+    "Id": "194",
+    "Company": "ÖZERDEM MENSUCAT SAN. VE TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:102",
+    "Phone": [
+      "0276 266 71 81",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67822",
+      "Longitude": "29.22366"
+    }
+  },
+  {
+    "Id": "195",
+    "Company": "ÖZERDEM MENSUCAT SAN. VE TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:62",
+    "Phone": [
+      "0276 266 79 36",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6765",
+      "Longitude": "29.23091"
+    }
+  },
+  {
+    "Id": "196",
+    "Company": "ÖZERDEM MENSUCAT SAN.TİC.AŞ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:91",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6774",
+      "Longitude": "29.20546"
+    }
+  },
+  {
+    "Id": "197",
+    "Company": "ÖZERDEM MENSUCAT SAN.VE TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 107.CADDE NO:256",
+    "Phone": [
+      "0276 266 84 20",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67892",
+      "Longitude": "29.20726"
+    }
+  },
+  {
+    "Id": "198",
+    "Company": "ÖZERDEM MENSUCAT SAN.VE TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:55",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67546",
+      "Longitude": "29.22654"
+    }
+  },
+  {
+    "Id": "199",
+    "Company": "ÖZİP TEKSTİL SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:180",
+    "Phone": [
+      "0276 266 75 60",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68166",
+      "Longitude": "29.20252"
+    }
+  },
+  {
+    "Id": "200",
+    "Company": "ÖZOĞUL İPLİK TEKSTİL SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:253",
+    "Phone": [
+      "0276 266 79 90",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68272",
+      "Longitude": "29.2082"
+    }
+  },
+  {
+    "Id": "201",
+    "Company": "ÖZSEÇKİN ISI GÜNEŞ ENERJİSİ İNŞ. NAKL. GIDA SAN. VE TİC. LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:426",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68299",
+      "Longitude": "29.20435"
+    }
+  },
+  {
+    "Id": "202",
+    "Company": "ÖZVARDAR GERİ DÖNÜŞÜM TAAH.TEKS.İNŞ.İÇ VE DIŞ TİC. SAN.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:5",
+    "Phone": [
+      "0276 266 80 80",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67571",
+      "Longitude": "29.20393"
+    }
+  },
+  {
+    "Id": "203",
+    "Company": "ÖZYÜREK ELYAF TEKSTİL VE GERİ DÖNÜŞÜM SAN. VE TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:455",
+    "Phone": [
+      "0276 266 73 21",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.682",
+      "Longitude": "29.23274"
+    }
+  },
+  {
+    "Id": "204",
+    "Company": "PALAMUTCU MAK. MÜH. MİM. TEKS. TUR. İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68241",
+      "Longitude": "29.20252"
+    }
+  },
+  {
+    "Id": "205",
+    "Company": "PALAMUTCU MAK. MÜH. MİM. TEKS. TURZ. İTH. İHR. SAN. TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:229",
+    "Phone": [
+      "0276 266 70 58",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68244",
+      "Longitude": "29.20273"
+    }
+  },
+  {
+    "Id": "206",
+    "Company": "PAMUKCU TEKSTİL OTOMOTİV TURİZM SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:187",
+    "Phone": [
+      "0276 215 16 97",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67935",
+      "Longitude": "29.22464"
+    }
+  },
+  {
+    "Id": "207",
+    "Company": "PAŞAOĞULLARI TEKS.SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:32",
+    "Phone": [
+      "0276 266 73 85",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67597",
+      "Longitude": "29.21448"
+    }
+  },
+  {
+    "Id": "208",
+    "Company": "PAYTEKS DERİ TEKSTİL İNŞ.SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:451",
+    "Phone": [
+      "0276 266 73 65",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6814",
+      "Longitude": "29.23306"
+    }
+  },
+  {
+    "Id": "209",
+    "Company": "PAYTEKS DERİ TEKSTİL İNŞAAT TURİZM TANITIM SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:279",
+    "Phone": [
+      "0276 266 73 65",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68161",
+      "Longitude": "29.2162"
+    }
+  },
+  {
+    "Id": "210",
+    "Company": "PEKSAN DOĞAL ÜRÜNLER SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:88",
+    "Phone": [
+      "0276 266 75 15",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67794",
+      "Longitude": "29.2095"
+    }
+  },
+  {
+    "Id": "211",
+    "Company": "PETFİBER ELYAF SAN.TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:78",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67776",
+      "Longitude": "29.20345"
+    }
+  },
+  {
+    "Id": "212",
+    "Company": "PLATO ELYAF TEKSTİL SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:16",
+    "Phone": [
+      "0276 266 88 50",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67578",
+      "Longitude": "29.2072"
+    }
+  },
+  {
+    "Id": "213",
+    "Company": "PLATO ELYAF TEKSTİL SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 114. CADDE NO:421",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68366",
+      "Longitude": "29.22988"
+    }
+  },
+  {
+    "Id": "214",
+    "Company": "POLAT İPLİK TEKS. SAN. VE TİC LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:25",
+    "Phone": [
+      "0276 266 72 67",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67509",
+      "Longitude": "29.21163"
+    }
+  },
+  {
+    "Id": "215",
+    "Company": "POLAT İPLİK TEKS. SAN. VE TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:31",
+    "Phone": [
+      "0276 266 72 67",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67512",
+      "Longitude": "29.21387"
+    }
+  },
+  {
+    "Id": "216",
+    "Company": "POLAT İPLİK TEKS. SAN. VE TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:27",
+    "Phone": [
+      "0276 266 72 67",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67508",
+      "Longitude": "29.21248"
+    }
+  },
+  {
+    "Id": "217",
+    "Company": "PROSEN DIŞ TİCARET VE PAZARLAMA LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:257",
+    "Phone": [
+      "0276 501 02 03",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6831",
+      "Longitude": "29.21034"
+    }
+  },
+  {
+    "Id": "218",
+    "Company": "RA PERA MEDİKAL PAZ.TEKS.İMAL.SAN.TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:68",
+    "Phone": [
+      "0276 502 00 18",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67661",
+      "Longitude": "29.23344"
+    }
+  },
+  {
+    "Id": "219",
+    "Company": "RAMAZAN BOZKURT",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:52",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67633",
+      "Longitude": "29.22677"
+    }
+  },
+  {
+    "Id": "220",
+    "Company": "RECEP GÜMÜŞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:463",
+    "Phone": [
+      "0276 266 71 50",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68307",
+      "Longitude": "29.2319"
+    }
+  },
+  {
+    "Id": "221",
+    "Company": "REDOLEND ENDÜSTRİ KİMYEVİLERİ İNŞAAT TURİZM NAKLİYE SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:53",
+    "Phone": [
+      "0276 266 76 38",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67538",
+      "Longitude": "29.22598"
+    }
+  },
+  {
+    "Id": "222",
+    "Company": "ROCAMAR MERMER SAN. VE TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:104",
+    "Phone": [
+      "0276 266 73 81",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67853",
+      "Longitude": "29.22468"
+    }
+  },
+  {
+    "Id": "223",
+    "Company": "ROCAMAR MERMER SAN. VE TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:106",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67854",
+      "Longitude": "29.22522"
+    }
+  },
+  {
+    "Id": "224",
+    "Company": "S.M.S. KONFEKSİYON DİKİM TEKS.SAN.VE TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:15",
+    "Phone": [
+      "0276 266 79 34",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67496",
+      "Longitude": "29.20612"
+    }
+  },
+  {
+    "Id": "225",
+    "Company": "S.M.S. KONFEKSİYON DİKİM TEKS.SAN.VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:13",
+    "Phone": [
+      "0276 266 79 34",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67493",
+      "Longitude": "29.20561"
+    }
+  },
+  {
+    "Id": "226",
+    "Company": "SABRİ YILDIRIM",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:225",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68238",
+      "Longitude": "29.20231"
+    }
+  },
+  {
+    "Id": "227",
+    "Company": "SAÇLI TEKSTİL SAN. VE TİC. .AŞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:143",
+    "Phone": [
+      "0276 266 80 00",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67882",
+      "Longitude": "29.20491"
+    }
+  },
+  {
+    "Id": "228",
+    "Company": "SAMİ KARAKIŞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:428",
+    "Phone": [
+      "0276 266 80 12",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68298",
+      "Longitude": "29.20474"
+    }
+  },
+  {
+    "Id": "229",
+    "Company": "SARAR BATTANİYE TEKS. SAN. Ve TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:177",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67945",
+      "Longitude": "29.21985"
+    }
+  },
+  {
+    "Id": "230",
+    "Company": "SARAR BATTANİYE TEKS. SAN. Ve TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:115",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67768",
+      "Longitude": "29.22527"
+    }
+  },
+  {
+    "Id": "231",
+    "Company": "SARAR BATTANİYE TEKS. SAN. Ve TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:117",
+    "Phone": [
+      "0276 266 73 36",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67772",
+      "Longitude": "29.22612"
+    }
+  },
+  {
+    "Id": "232",
+    "Company": "SARAR BATTANİYE TEKS. SAN. Ve TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:110",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67862",
+      "Longitude": "29.22635"
+    }
+  },
+  {
+    "Id": "233",
+    "Company": "SARAR BATTİNEYE TEKSTİL SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:50",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67633",
+      "Longitude": "29.22595"
+    }
+  },
+  {
+    "Id": "234",
+    "Company": "SARIKILIÇ TEKS. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:295",
+    "Phone": [
+      "0276 266 81 55",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68306",
+      "Longitude": "29.22164"
+    }
+  },
+  {
+    "Id": "235",
+    "Company": "SEDA BESCİ USTAOĞLU",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:81",
+    "Phone": [
+      "0276 266 73 53",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6759",
+      "Longitude": "29.23662"
+    }
+  },
+  {
+    "Id": "236",
+    "Company": "SEDAT ALTUNBAŞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:480",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68523",
+      "Longitude": "29.20737"
+    }
+  },
+  {
+    "Id": "237",
+    "Company": "SEDAT ALTUNBAŞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:281",
+    "Phone": [
+      "0276 266 82 77",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68135",
+      "Longitude": "29.21677"
+    }
+  },
+  {
+    "Id": "238",
+    "Company": "SEKA ELYAF TEKSTİLSAN.TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:97",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67702",
+      "Longitude": "29.20943"
+    }
+  },
+  {
+    "Id": "239",
+    "Company": "SERKAN AKTAŞ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 117.CADDE NO:448",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68396",
+      "Longitude": "29.20467"
+    }
+  },
+  {
+    "Id": "240",
+    "Company": "SESLİ TEKS.SAN.VE TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 108.CADDE NO:282",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67594",
+      "Longitude": "29.21161"
+    }
+  },
+  {
+    "Id": "241",
+    "Company": "SESLİ TEKS.SAN.VE TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 110.CADDE NO:355",
+    "Phone": [
+      "0276 266 79 79",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67575",
+      "Longitude": "29.21646"
+    }
+  },
+  {
+    "Id": "242",
+    "Company": "SESLİ TEKS.SAN.VE TİC.A.Ş.(FİNANSAL KİRACI)",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:20",
+    "Phone": [
+      "0276 266 79 79",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67589",
+      "Longitude": "29.20995"
+    }
+  },
+  {
+    "Id": "243",
+    "Company": "SESLİM TEKS. SAN.VE TİC.A.Ş.(FİNANSAL KİRACI)",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:140",
+    "Phone": [
+      "0276  266 71 84",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67986",
+      "Longitude": "29.20585"
+    }
+  },
+  {
+    "Id": "244",
+    "Company": "SESLİM TEKSTİL SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:207",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68075",
+      "Longitude": "29.20532"
+    }
+  },
+  {
+    "Id": "245",
+    "Company": "SEVİM EVYAPAN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:122",
+    "Phone": [
+      "0276 227 37 02",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6788",
+      "Longitude": "29.23211"
+    }
+  },
+  {
+    "Id": "246",
+    "Company": "SEYKEN BATTANİYE TEKS. GIDA İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:23",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67505",
+      "Longitude": "29.21035"
+    }
+  },
+  {
+    "Id": "247",
+    "Company": "SEZERLER TARIM ÜRÜNLERİ TEKS.SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:159",
+    "Phone": [
+      "0276 266 77 08",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67898",
+      "Longitude": "29.21334"
+    }
+  },
+  {
+    "Id": "248",
+    "Company": "SİRESAN TEKSTİL KİMYA SAN.TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:116",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67875",
+      "Longitude": "29.22989"
+    }
+  },
+  {
+    "Id": "249",
+    "Company": "SİRGELİ MENSUCAT SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:163",
+    "Phone": [
+      "0276 223 01 01",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67957",
+      "Longitude": "29.21466"
+    }
+  },
+  {
+    "Id": "250",
+    "Company": "SODEL SİLİKAT KİMYA SAN.VE TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:432",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68297",
+      "Longitude": "29.20548"
+    }
+  },
+  {
+    "Id": "251",
+    "Company": "SOFAŞ GIDA SAN .TİC A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 107.CADDE NO:254",
+    "Phone": [
+      "0276 216 10 40",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67781",
+      "Longitude": "29.2073"
+    }
+  },
+  {
+    "Id": "252",
+    "Company": "SOM PAZARLAMA TEKSTİL SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 101.CADDE NO:33",
+    "Phone": [
+      "0276 266 72 38",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67522",
+      "Longitude": "29.21469"
+    }
+  },
+  {
+    "Id": "253",
+    "Company": "SOYDAN VAROL",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:97",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67706",
+      "Longitude": "29.21014"
+    }
+  },
+  {
+    "Id": "254",
+    "Company": "ŞAHİN KAHRAMAN",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:247",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68255",
+      "Longitude": "29.20537"
+    }
+  },
+  {
+    "Id": "255",
+    "Company": "TEKİN İPLİK TEKSTİL SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:201",
+    "Phone": [
+      "0276 266 83 44",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67975",
+      "Longitude": "29.23413"
+    }
+  },
+  {
+    "Id": "256",
+    "Company": "TG MENSUCAT TEKSTİL SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:114",
+    "Phone": [
+      "0276 502 00 31",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67874",
+      "Longitude": "29.22901"
+    }
+  },
+  {
+    "Id": "257",
+    "Company": "TOPAÇ MÜHENDİSLİK SAN.TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:289",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68053",
+      "Longitude": "29.21984"
+    }
+  },
+  {
+    "Id": "258",
+    "Company": "TREND HALI SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 113.CADDE NO:334",
+    "Phone": [
+      "0276 266 74 26",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67814",
+      "Longitude": "29.22935"
+    }
+  },
+  {
+    "Id": "259",
+    "Company": "TURAN AKAT",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:468",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68305",
+      "Longitude": "29.20831"
+    }
+  },
+  {
+    "Id": "260",
+    "Company": "TURGAY BOLAT",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 117.CADDE NO:436",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68384",
+      "Longitude": "29.20214"
+    }
+  },
+  {
+    "Id": "261",
+    "Company": "UĞUR TÜRKYURT",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 115.CADDE NO:437",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67859",
+      "Longitude": "29.23492"
+    }
+  },
+  {
+    "Id": "262",
+    "Company": "UMPET PET. DIŞ. TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:182",
+    "Phone": [
+      "0276 266 73 30",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68184",
+      "Longitude": "29.20424"
+    }
+  },
+  {
+    "Id": "263",
+    "Company": "UOSB TÜZEL KİŞİLİĞİ",
+    "Sector": "",
+    "Address": "",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67805",
+      "Longitude": "29.22157"
+    }
+  },
+  {
+    "Id": "264",
+    "Company": "USAŞ UĞUR SERDAROĞLU İNŞ. TAAH. SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:305",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6878",
+      "Longitude": "29.2288"
+    }
+  },
+  {
+    "Id": "265",
+    "Company": "UŞAK AKDAĞ GIDA TEKS.TUR.İNŞ.PET.SAN.VE TİC.LTD.ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:418",
+    "Phone": [
+      "0276 501 00 24",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6829",
+      "Longitude": "29.20323"
+    }
+  },
+  {
+    "Id": "266",
+    "Company": "UŞAK ATILIM KİM. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:474",
+    "Phone": [
+      "0276 266 78 76",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.684",
+      "Longitude": "29.20813"
+    }
+  },
+  {
+    "Id": "267",
+    "Company": "UŞAK ÇETİN TEKSTİL DERİ KİMYA İNŞ. TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 104.CADDE NO:156",
+    "Phone": [
+      "0276 266 78 68",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67997",
+      "Longitude": "29.21265"
+    }
+  },
+  {
+    "Id": "268",
+    "Company": "UŞAK KAR SERAMİK SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:519",
+    "Phone": [
+      "0276 266 78 93",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68365",
+      "Longitude": "29.20707"
+    }
+  },
+  {
+    "Id": "269",
+    "Company": "UŞAK KAR SERAMİK SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:521",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.684",
+      "Longitude": "29.20698"
+    }
+  },
+  {
+    "Id": "270",
+    "Company": "UŞAK KAR SERAMİK SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:517",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68338",
+      "Longitude": "29.20714"
+    }
+  },
+  {
+    "Id": "271",
+    "Company": "UŞAK KAR SERAMİK SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:515",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68306",
+      "Longitude": "29.20708"
+    }
+  },
+  {
+    "Id": "272",
+    "Company": "UŞAK KAR SERAMİK SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:513",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68272",
+      "Longitude": "29.20714"
+    }
+  },
+  {
+    "Id": "273",
+    "Company": "UŞAK RENK TEKSTİL SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:484",
+    "Phone": [
+      "0276 266 75 03",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6859",
+      "Longitude": "29.20695"
+    }
+  },
+  {
+    "Id": "274",
+    "Company": "UŞAK RENK TEKSTİL SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 118.CADDE NO:486",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68632",
+      "Longitude": "29.2067"
+    }
+  },
+  {
+    "Id": "275",
+    "Company": "UŞAK SÜT GIDA ÜRÜNLERİ SAN.VE TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:56",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67603",
+      "Longitude": "29.22826"
+    }
+  },
+  {
+    "Id": "276",
+    "Company": "UŞAK TEKNOKOM ELK. ELKTRONİK TEKS. GIDA SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 117.CADDE NO:438",
+    "Phone": [
+      "0276 266 81 48",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68393",
+      "Longitude": "29.20285"
+    }
+  },
+  {
+    "Id": "277",
+    "Company": "UŞAK TEKSTİL SAN.VE TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:155",
+    "Phone": [
+      "0276 266 74 19",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67901",
+      "Longitude": "29.21082"
+    }
+  },
+  {
+    "Id": "278",
+    "Company": "UŞAK ÜÇYILDIZ BOYA TEKS. SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:133",
+    "Phone": [
+      "0276 266 72 66",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67781",
+      "Longitude": "29.23331"
+    }
+  },
+  {
+    "Id": "279",
+    "Company": "UŞAK ÜÇYILDIZ TEKS. BOYA SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:126",
+    "Phone": [
+      "0276 266 72 66",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67888",
+      "Longitude": "29.23335"
+    }
+  },
+  {
+    "Id": "280",
+    "Company": "UŞAK ÜRÜN TEKSTİL SAN. VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:26",
+    "Phone": [
+      "0276 266 82 86",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67591",
+      "Longitude": "29.21247"
+    }
+  },
+  {
+    "Id": "281",
+    "Company": "UŞAK YAYGI HALI YIKAMA BOYAMA TEKSTİL TİC. LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:10",
+    "Phone": [
+      "0276 266 74 76",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67571",
+      "Longitude": "29.20506"
+    }
+  },
+  {
+    "Id": "282",
+    "Company": "UZPA TEKSTİL PAZ. SAN. TİC. LTD. ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:269",
+    "Phone": [
+      "0276 266 75 94",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68227",
+      "Longitude": "29.21387"
+    }
+  },
+  {
+    "Id": "283",
+    "Company": "ÜÇALTIN TEKS.S.VE T.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:113",
+    "Phone": [
+      "0276 266 76 93",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67763",
+      "Longitude": "29.2247"
+    }
+  },
+  {
+    "Id": "284",
+    "Company": "ÜÇYILDIZ İPLİK SAN.VE TİCARET LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 114. CAD. NO:356",
+    "Phone": [
+      "0276 266 74 54",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67769",
+      "Longitude": "29.23559"
+    }
+  },
+  {
+    "Id": "285",
+    "Company": "VAROL AKSESUAR MOBİLYA SAN. VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:263",
+    "Phone": [
+      "0276 502 00 22",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6825",
+      "Longitude": "29.21221"
+    }
+  },
+  {
+    "Id": "286",
+    "Company": "VRL MOBİLYA SAN. VE TİC. LTD. ŞTİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:90",
+    "Phone": [
+      "0276 266 88 88",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67799",
+      "Longitude": "29.21022"
+    }
+  },
+  {
+    "Id": "287",
+    "Company": "WORLD TRADE WOOL YÜN YAPAĞI DIŞ TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:206",
+    "Phone": [
+      "0276 266 70 22",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68078",
+      "Longitude": "29.22109"
+    }
+  },
+  {
+    "Id": "288",
+    "Company": "YAKUT METALURJİ VE GERİ KAZANIM END. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 116.CADDE NO:485",
+    "Phone": [
+      "0276 266 71 99",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68349",
+      "Longitude": "29.20323"
+    }
+  },
+  {
+    "Id": "289",
+    "Company": "YANDIMLAR DAYANIKLI TÜK.MAL. SAN.VE TİC.LTD.ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:85",
+    "Phone": [
+      "0276 266 74 03",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67684",
+      "Longitude": "29.20359"
+    }
+  },
+  {
+    "Id": "290",
+    "Company": "YANGINCI TEKSTİL SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102. CADDE NO:119",
+    "Phone": [
+      "0276 266 72 91",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67769",
+      "Longitude": "29.22698"
+    }
+  },
+  {
+    "Id": "291",
+    "Company": "YANGINCI TEKSTİL SAN. VE TİC. A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 113.CADDE NO:332",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67757",
+      "Longitude": "29.22971"
+    }
+  },
+  {
+    "Id": "292",
+    "Company": "YAYLA TEKSTİL DERİ KİLİM SAN.TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:167",
+    "Phone": [
+      "0276 266 75 30",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67923",
+      "Longitude": "29.21636"
+    }
+  },
+  {
+    "Id": "293",
+    "Company": "YENİ BİRLİK MAK. SAN. TİC.A.Ş.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 120.CADDE NO:539",
+    "Phone": [
+      "0276 266 74 93",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68139",
+      "Longitude": "29.22244"
+    }
+  },
+  {
+    "Id": "294",
+    "Company": "YILDIRIMLAR BASKI BOYA SAN. TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 113.CADDE NO:401",
+    "Phone": [
+      "0276 266 84 94",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68242",
+      "Longitude": "29.22366"
+    }
+  },
+  {
+    "Id": "295",
+    "Company": "YILDIRIMLAR BASKI BOYA SAN. TİC. A.Ş",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 113.CADDE NO:403",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68333",
+      "Longitude": "29.22334"
+    }
+  },
+  {
+    "Id": "296",
+    "Company": "YILDIRIMLAR TÜLBENT SAN. VE TİC. LTD. ŞTİ.",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:297",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68396",
+      "Longitude": "29.22247"
+    }
+  },
+  {
+    "Id": "297",
+    "Company": "YILMAZ BAŞER",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 105.CADDE NO:186",
+    "Phone": [
+      "0276 266 79 89",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68182",
+      "Longitude": "29.20527"
+    }
+  },
+  {
+    "Id": "298",
+    "Company": "YÜKSEL ALP",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 117.CADDE NO:442",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.68394",
+      "Longitude": "29.2034"
+    }
+  },
+  {
+    "Id": "299",
+    "Company": "UOSB İDARİ BİNA",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 111.CADDE NO:365",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67838",
+      "Longitude": "29.21982"
+    }
+  },
+  {
+    "Id": "300",
+    "Company": "UOSB İŞ VE TİCARET MERKEZİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:103",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67735",
+      "Longitude": "29.21973"
+    }
+  },
+  {
+    "Id": "301",
+    "Company": "UOSB GÜMRÜK BİNASI",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 110.CADDE NO:302",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67731",
+      "Longitude": "29.21767"
+    }
+  },
+  {
+    "Id": "302",
+    "Company": "UOSB EĞİTİM ALANI (FUTBOL SAHASI)",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 117.CADDE NO:442",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67735",
+      "Longitude": "29.21867"
+    }
+  },
+  {
+    "Id": "303",
+    "Company": "UOSB BÖLGE HİZMET ALANI ELEKTRİK BİRİMİ VE ÇEVRE TEMİZLİK BİRİMİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:107",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67717",
+      "Longitude": "29.22162"
+    }
+  },
+  {
+    "Id": "304",
+    "Company": "UOSB SAĞLIK HİZMET ALANI EGE ORTAK SAĞLIK BİRİMİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 102.CADDE NO:109",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6772",
+      "Longitude": "29.22273"
+    }
+  },
+  {
+    "Id": "305",
+    "Company": "UOSB SOSYAL TESİS ALANI",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 110.CADDE NO:304",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.6782",
+      "Longitude": "29.21753"
+    }
+  },
+  {
+    "Id": "306",
+    "Company": "UOSB CAMİİ",
+    "Sector": "",
+    "Address": "ORGANİZE SANAYİ BÖLGESİ 103.CADDE NO:96",
+    "Phone": [
+      "",
+      ""
+    ],
+    "Fax": [
+      "",
+      ""
+    ],
+    "WebSite": "",
+    "Location": {
+      "Latitude": "38.67825",
+      "Longitude": "29.21871"
+    }
+  }
+]

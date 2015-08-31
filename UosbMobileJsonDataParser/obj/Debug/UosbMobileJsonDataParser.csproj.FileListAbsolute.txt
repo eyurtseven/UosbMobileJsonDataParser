@@ -1,0 +1,8 @@
+c:\users\emre\documents\visual studio 2013\Projects\UosbMobileJsonDataParser\UosbMobileJsonDataParser\bin\Debug\UosbMobileJsonDataParser.exe.config
+c:\users\emre\documents\visual studio 2013\Projects\UosbMobileJsonDataParser\UosbMobileJsonDataParser\obj\Debug\UosbMobileJsonDataParser.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2013\Projects\UosbMobileJsonDataParser\UosbMobileJsonDataParser\bin\Debug\UosbMobileJsonDataParser.exe
+c:\users\emre\documents\visual studio 2013\Projects\UosbMobileJsonDataParser\UosbMobileJsonDataParser\bin\Debug\UosbMobileJsonDataParser.pdb
+c:\users\emre\documents\visual studio 2013\Projects\UosbMobileJsonDataParser\UosbMobileJsonDataParser\bin\Debug\Newtonsoft.Json.dll
+c:\users\emre\documents\visual studio 2013\Projects\UosbMobileJsonDataParser\UosbMobileJsonDataParser\bin\Debug\Newtonsoft.Json.xml
+c:\users\emre\documents\visual studio 2013\Projects\UosbMobileJsonDataParser\UosbMobileJsonDataParser\obj\Debug\UosbMobileJsonDataParser.exe
+c:\users\emre\documents\visual studio 2013\Projects\UosbMobileJsonDataParser\UosbMobileJsonDataParser\obj\Debug\UosbMobileJsonDataParser.pdb
